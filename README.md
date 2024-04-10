@@ -1,5 +1,7 @@
 # README for Mega Softworks Website
 
+![Alt text](Screen Shot 2024-04-10 at 3.52.42 AM.png)
+
 ## Project Overview
 
 Welcome to the GitHub repository of Mega Softworks! Our website showcases the best productivity software available. This README provides an overview of the project's goals, key features, development process, and future enhancements.
@@ -51,10 +53,5 @@ We're constantly striving to improve the Mega Softworks website. Potential futur
 For more information or to collaborate on potential projects, please feel free to reach out to us:
 
 * Email: angelobrown1000@gmail.com
-
-**Note:**
-
-- Replace `angelobrown1000@gmail.com` with your actual contact email address.
-- Consider including your social media links (if applicable).
 
 We appreciate your interest in the Mega Softworks website repository! Feel free to explore the code and provide feedback.

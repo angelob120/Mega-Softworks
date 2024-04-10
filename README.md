@@ -1,6 +1,7 @@
 # README for Mega Softworks Website
 
 ![Alt text](Screen Shot 2024-04-10 at 3.52.42 AM.png)
+![Alt text](Screen Shot 2024-04-10 at 3.52.42 AM.png)
 
 ## Project Overview
 
